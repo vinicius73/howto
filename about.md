@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
+Sobre nosso grupo
 
-Some information about you!
+### Contribua!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contribua: [https://github.com/artesaos/howto](https://github.com/artesaos/howto)
