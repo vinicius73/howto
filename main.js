@@ -1,4 +1,3 @@
-<script>
   // 1. Add the `prettyprint` class to `pre` tags. - When using Jekyll you *could* omit this step 
   // by using {% highlight prettyprint %} in your posts (which adds it to the `code` tags),
   // *BUT:* 
@@ -11,4 +10,3 @@
 
   // 2. Run
   prettyPrint();
-</script>
