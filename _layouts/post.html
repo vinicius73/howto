@@ -11,9 +11,6 @@ layout: default
 
   <div class="date">
     Escrito em {{ page.date | date: "%B %e, %Y" }}
-    {% if page.author %}
-        por <a href="{{ page.author_url }}">{{ page.author }}</a> 
-    {% endif %}
   </div>
 
   {% include disqus.html %}

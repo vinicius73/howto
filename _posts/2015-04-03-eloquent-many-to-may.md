@@ -8,7 +8,7 @@ author_url: https://github.com/diasfulvio
 
 A relação de `N para M` que existe entre as tabelas de nomes `authors` e `books`, conforme demostrado figura abaixo:
 
-![1 para 1]({{ site.baseurl }}/images/N-M.png)
+![1 para 1]({{ site.baseurl }}/images/eloquent-n-n.png)
 
 Para refletir isso no Laravel crie as seguintes classes que herdam do Eloquent (Model).
 
