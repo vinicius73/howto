@@ -10,7 +10,10 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Escrito em {{ page.date | date: "%B %e, %Y" }}
+    {% if page.autor %}
+        por <a href="{{ page.author_url }}">{{ page.author }}</a> 
+    {% endif %}
   </div>
 
   {% include disqus.html %}

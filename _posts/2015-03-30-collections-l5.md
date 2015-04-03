@@ -2,6 +2,8 @@
 layout: post
 title: Collections L5
 categories: Helpers L5
+author: @diasfulvio
+author_url: https://github.com/diasfulvio
 ---
 
 A Classe `Illuminate\Support\Collection` é um wrapper muito conveniente quando de trabalha com uma lista de dados (array).  
